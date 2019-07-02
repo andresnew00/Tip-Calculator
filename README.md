@@ -6,3 +6,7 @@ This application will allow you to calculate the tip of your next restaurant vis
 - JavaScript 
 - HTML
 - CSS
+
+# Code challenge #1 
+
+-Andres Inciarte
